@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "mapaapi",
+=======
+  "name": "reactaula",
+>>>>>>> origin/main
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
@@ -9,12 +13,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
+<<<<<<< HEAD
     "expo": "~51.0.11",
     "expo-location": "^17.0.1",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-native": "0.74.2",
     "react-native-maps": "1.14.0"
+=======
+    "expo": "~51.0.8",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.1"
+>>>>>>> origin/main
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
